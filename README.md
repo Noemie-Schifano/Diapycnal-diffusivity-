@@ -1,6 +1,6 @@
 
 
-# -------------------- NetCDF of diapycnal diffusivities (effective and parameterized) -------------
+NetCDF of diapycnal diffusivities (effective and parameterized)
 1. Diffusivities experienced by passive tracer patches can be found in this repertory
        ---> "rrexnumNL-scheme_diffusivities.nc", with:
                - "NL" the number of sigma-levels used,
